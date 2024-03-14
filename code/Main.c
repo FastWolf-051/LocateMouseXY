@@ -1,3 +1,9 @@
+/* Program written by FastDevil
+ * If you should copy or use my implementation,
+ * Write in your script,that "i take this idea from FastDevil"
+ * Or something like that
+ */
+
 #include <t_include.h>
 
 #define KEY_SPACE 0x20
